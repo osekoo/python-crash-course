@@ -1,2 +1,2 @@
-# python-crash-course
+# python crash course
 Python crash course
