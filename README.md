@@ -29,6 +29,9 @@
 - **Installing Anaconda for Python 3 (3.x)**
     * follow the instruction described at https://docs.anaconda.com/anaconda/install/ to install Anaconda on your system
     * select the appropriate version according to your operating system
+    * launch Anaconda:
+      - Linux/MacOs: run the command `anaconda-navigator`
+      - Windows: from menu `Programs`
     * walking through this tutorial to learn how to use Anaconda https://docs.anaconda.com/anaconda/user-guide/getting-started/ (read the section related to your operating system)
   
 - **Installing Jupyter Notebook and get familiar with it**
